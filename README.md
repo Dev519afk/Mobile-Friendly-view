@@ -31,10 +31,8 @@ A simple and fully responsive To-Do List application built with **HTML**, **CSS*
 |--------------|-------------|
 | ![Desktop]![image](https://github.com/user-attachments/assets/95f5b2d9-337b-4791-b3a9-f98e4d8b8ab9)
 
-| ![Mobile]([Screenshot (335)](https://github.com/user-attachments/assets/42b9d9da-1377-4304-a03c-b6b2cca8c66c)
-le+View) |
 
-_📸 Replace placeholder screenshots with real ones before submission if required._
+![Mobile](https://github.com/user-attachments/assets/279a5e97-3339-4626-8d89-7657793184de)
 
 ---
 
@@ -46,7 +44,4 @@ _📸 Replace placeholder screenshots with real ones before submission if requir
 4. Use buttons to clear tasks or manage them.
 5. Works on all screen sizes — use Chrome DevTools to test responsiveness.
 
----
-
-## 📁 Project Structure
 
